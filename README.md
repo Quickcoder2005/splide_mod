@@ -22,7 +22,5 @@
 > window.onload = function(){
     document.documentElement.style.setProperty('--primary', 'pink');
     document.documentElement.style.setProperty('--secondary', 'red');
-
     new Splide( '.splide', {type: 'loop'}).mount();
-    });
-}
+    });}
