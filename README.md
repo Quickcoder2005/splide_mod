@@ -21,12 +21,14 @@
 
 # usage
 
-#### Add these 2 lines of code in before mounting splide.
+#### Add these 3 lines of code in before mounting splide.
 #### This sets the primary, secondary and tertiary colors to your desired color.
 #### If you don't change any of the primary, secondary or tertiary color using the code below, it will have the default color.
 
 > document.documentElement.style.setProperty('--primary', YOUR_DESIRED_COLOR);
     document.documentElement.style.setProperty('--secondary', YOUR_DESIRED_COLOR);
+    document.documentElement.style.setProperty('--secondary', YOUR_DESIRED_COLOR);
+    document.documentElement.style.setProperty('--tertiary', YOUR_DESIRED_COLOR);
 
 # example
 
