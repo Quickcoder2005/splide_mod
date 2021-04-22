@@ -21,7 +21,7 @@ This makes it easier to change the colors of the slider arrows and pagination.
 
 <!--splide-mod-style-2-->
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Quickcoder2005/splide_mod@main/src/splide-mod-style-flat.min.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Quickcoder2005/splide_mod@main/src/splide-mod-flat.min.css"/>
 
 ```
 
