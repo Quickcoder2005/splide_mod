@@ -10,12 +10,21 @@
 
 <script src="https://cdn.jsdelivr.net/npm/@splidejs/splide@2.4.21/dist/js/splide.min.js"></script>
 
-//splide-mod-css
+//Include any one of the following stylesheets
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Quickcoder2005/splide_mod@main/splide-mod.css"/>
+//splide-mod-style-1
 
-//splide-original-css
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Quickcoder2005/splide_mod@main/src/splide-mod-circular.min.css"/>
 
+//splide-mod-style-2
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Quickcoder2005/splide_mod@main/src/splide-mod-flat.min.css"/>
+```
+
+#original_files
+
+```
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@splidejs/splide@2.4.21/dist/css/themes/splide-skyblue.min.css"/>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@splidejs/splide@2.4.21/dist/css/themes/splide-sea-green.min.css"/>
 ```
 
