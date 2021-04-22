@@ -10,7 +10,7 @@
 
 <script src="https://cdn.jsdelivr.net/npm/@splidejs/splide@2.4.21/dist/js/splide.min.js"></script>
 
-//Include any one of the following stylesheets
+//Include any one of the following stylesheets:
 
 //splide-mod-style-1
 
