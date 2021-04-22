@@ -8,6 +8,8 @@
 ```
 //splide-original-js
 
+//This is the main js file:
+
 <script src="https://cdn.jsdelivr.net/npm/@splidejs/splide@2.4.21/dist/js/splide.min.js"></script>
 
 //Include any one of the following stylesheets:
