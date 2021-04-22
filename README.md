@@ -36,9 +36,9 @@ This makes it easier to change the colors of the slider arrows and pagination.
 
 # usage
 
-Add these 3 lines of code in before mounting splide.
-This sets the primary, secondary and tertiary colors to your desired color.
-If you don't change any of the primary, secondary or tertiary color using the code below, it will have the default color.
+* Add these 3 lines of code in before mounting splide.
+* This sets the primary, secondary and tertiary colors to your desired color.
+* If you don't change any of the primary, secondary or tertiary color using the code below, it will have the default color.
 
 ```js
 
