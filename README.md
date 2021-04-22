@@ -1,4 +1,4 @@
-# splide_mod
+# splide_modx
 
 #### This is a slight modification of the splide library css part.
 #### This makes it easier to change the colors of the slider arrows and pagination.
