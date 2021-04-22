@@ -24,14 +24,15 @@
 #### Add these 2 lines of code in before mounting splide.
 #### This set s the primary and secondary colors to your desired color.
 
-> document.documentElement.style.setProperty('--primary', 'pink');
-    document.documentElement.style.setProperty('--secondary', 'red');
+> document.documentElement.style.setProperty('--primary', YOUR_DESIRED_COLOR);
+    document.documentElement.style.setProperty('--secondary', YOUR_DESIRED_COLOR);
 
 # example
 
 > window.onload = function(){
-    document.documentElement.style.setProperty('--primary', 'pink');
-    document.documentElement.style.setProperty('--secondary', 'red');
+    document.documentElement.style.setProperty('--primary', YOUR_DESIRED_COLOR);
+    document.documentElement.style.setProperty('--secondary', YOUR_DESIRED_COLOR);
+    document.documentElement.style.setProperty('--tertiary, YOUR_DESIRED_COLOR);
     new Splide( '.splide', {type: 'loop'}).mount();
     });
 }
