@@ -4,7 +4,7 @@
 #### This makes it easier to change the colors of the slider arrows and pagination.
 
 # cdn_links
-
+>
 //splide-mod-css
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Quickcoder2005/splide_mod@main/splide-mod.css"/>
