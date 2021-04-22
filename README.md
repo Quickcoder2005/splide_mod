@@ -1,15 +1,15 @@
-# splide_modx
+# splide_mod
 
 #### This is a slight modification of the splide library css part.
 #### This makes it easier to change the colors of the slider arrows and pagination.
 
 # cdn_links
 >
-//splide-mod-css
+splide-mod-css
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Quickcoder2005/splide_mod@main/splide-mod.css"/>
 
-//original-css
+original-css
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@splidejs/splide@2.4.21/dist/css/themes/splide-sea-green.min.css"/>
 
