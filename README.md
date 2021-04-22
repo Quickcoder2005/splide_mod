@@ -42,9 +42,9 @@ This makes it easier to change the colors of the slider arrows and pagination.
 
 ```js
 
-document.documentElement.style.setProperty('--primary', YOUR_DESIRED_COLOR);
-document.documentElement.style.setProperty('--secondary', YOUR_DESIRED_COLOR);
-document.documentElement.style.setProperty('--tertiary', YOUR_DESIRED_COLOR);
+document.documentElement.style.setProperty("--primary", YOUR_DESIRED_COLOR);
+document.documentElement.style.setProperty("--secondary", YOUR_DESIRED_COLOR);
+document.documentElement.style.setProperty("--tertiary", YOUR_DESIRED_COLOR);
 
 ```
 
@@ -53,10 +53,10 @@ document.documentElement.style.setProperty('--tertiary', YOUR_DESIRED_COLOR);
 ```js
 
 window.onload = function(){
-    document.documentElement.style.setProperty('--primary', YOUR_DESIRED_COLOR);
-    document.documentElement.style.setProperty('--secondary', YOUR_DESIRED_COLOR);
-    document.documentElement.style.setProperty('--tertiary, YOUR_DESIRED_COLOR);
-    new Splide( '.splide', {type: 'loop'}).mount();
+    document.documentElement.style.setProperty("--primary", YOUR_DESIRED_COLOR);
+    document.documentElement.style.setProperty("--secondary", YOUR_DESIRED_COLOR);
+    document.documentElement.style.setProperty("--tertiary", YOUR_DESIRED_COLOR);
+    new Splide( ".splide", {type: "loop"}).mount();
     });
 }
 
