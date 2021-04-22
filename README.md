@@ -22,7 +22,7 @@
 # usage
 
 #### Add these 2 lines of code in before mounting splide.
-#### This set s the primary and secondary colors to your desired color.
+#### This sets the primary and secondary colors to your desired color.
 
 > document.documentElement.style.setProperty('--primary', YOUR_DESIRED_COLOR);
     document.documentElement.style.setProperty('--secondary', YOUR_DESIRED_COLOR);
