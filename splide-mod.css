@@ -1,6 +1,7 @@
 :root {
     --primary: #20b2aa;
     --secondary: #57e1d9;
+    --tertiary: #ccc
 }
 
 @keyframes splide-loading {
@@ -188,7 +189,7 @@
 	display: inline-block;
 	width: 20px;
 	height: 5px;
-	background: #ccc;
+	background: var(--tertiary);
 	border-radius: 2.5px;
 	margin: 3px;
 	padding: 0;
