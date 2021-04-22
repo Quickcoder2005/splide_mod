@@ -27,7 +27,6 @@
 
 > document.documentElement.style.setProperty('--primary', YOUR_DESIRED_COLOR);
     document.documentElement.style.setProperty('--secondary', YOUR_DESIRED_COLOR);
-    document.documentElement.style.setProperty('--secondary', YOUR_DESIRED_COLOR);
     document.documentElement.style.setProperty('--tertiary', YOUR_DESIRED_COLOR);
 
 # example
